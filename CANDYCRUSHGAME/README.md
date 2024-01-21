@@ -6,9 +6,11 @@ In Game menu :
 3. Instructions: Providing comprehensive guidance, this option equips new players with the essential know-how to navigate the Candy Crush universe, ensuring a smooth and enjoyable initiation into the game.
 4. Scores: Track and review your progress effortlessly. The scores section allows players to monitor and celebrate their achievements, fostering a sense of accomplishment and motivation.
 5. Quit Game: For moments when it's time to bid adieu, this option allows a seamless exit from the game, ensuring a user-friendly and satisfying experience.
+<br>
 There are two modes in the game :
 Easy Mode 
 Hard Mode
+<br>
 There are a total of seven entities categorized into Game Modes and Game Menu Options :
 *GAME MENU:
 Play Game
@@ -16,9 +18,11 @@ Credits
 Instructions
 Scores
 Quit
+<br>
 *GAME MODES 
 Easy Mode
 Hard mode
+<br>
 Then we have Eight user-defined functions named:
 crushrand
 crushrandhard
@@ -28,10 +32,12 @@ fillcandies
 fillhardcandies
 swapspaceEasy
 swapspaceHard
+<br>
 MADE BY:
-I wanted to extend my heartfelt gratitude to each one of you for being a part of the presentation of my Candy Crush game project. Your presence and support meant a lot to me.
-This project has been a labor of love, a culmination of countless hours dedicated to crafting an engaging and enjoyable game. I'm immensely grateful for the opportunity to share my journey, insights, and the creative process behind developing this game.
+I wanted to extend my heartfelt gratitude to each one of you for being a part of the presentation of my Candy Crush game project. Your presence and support meant a lot to me.This project has been a labor of love, a culmination of countless hours dedicated to crafting an engaging and enjoyable game. I'm immensely grateful for the opportunity to share my journey, insights, and the creative process behind developing this game.
+<br>
 Warm regards,
+<br>
 [Hassan Raza]
 
 
