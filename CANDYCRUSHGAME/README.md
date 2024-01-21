@@ -8,29 +8,47 @@ In Game menu :
 5. Quit Game: For moments when it's time to bid adieu, this option allows a seamless exit from the game, ensuring a user-friendly and satisfying experience.
 <br>
 There are two modes in the game :
+<br>
 Easy Mode 
+<br>
 Hard Mode
 <br>
 There are a total of seven entities categorized into Game Modes and Game Menu Options :
+<br>
 *GAME MENU:
+<br>
 Play Game
+<br>
 Credits
+<br>
 Instructions
+<br>
 Scores
+<br>
 Quit
 <br>
 *GAME MODES 
+<br>
 Easy Mode
+<br>
 Hard mode
 <br>
 Then we have Eight user-defined functions named:
+<br>
 crushrand
+<br>
 crushrandhard
+<br>
 fill
+<br>
 fillhard
+<br>
 fillcandies
+<br>
 fillhardcandies
+<br>
 swapspaceEasy
+<br>
 swapspaceHard
 <br>
 MADE BY:
